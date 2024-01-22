@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class penjumlahan{
 	public void hitung(double x, double y){
 		double hasil;
