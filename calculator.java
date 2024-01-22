@@ -39,7 +39,7 @@ class modulus extends pembagian{
 	}
 }
 
-public class calculator extends modulus{
+public class calculator {
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("masukkan 2 bilangan!");
