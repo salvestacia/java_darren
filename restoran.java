@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 public class restoran {
     static Scanner input = new Scanner(System.in);
     static List<Integer> listSubtotalHargaMakanan = new ArrayList<>();
