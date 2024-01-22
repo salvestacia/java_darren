@@ -1,1 +1,1 @@
-This repository contains java code files that I created for my assignments and college projects.
+This repository contains java code files that I created for exercise (some of the codes are from my answers to my college assignments)
