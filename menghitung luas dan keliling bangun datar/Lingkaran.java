@@ -1,5 +1,3 @@
-package com.dicoding.javafundamental.studikasus;
-
 public class Lingkaran {
     private double pi = 3.1415;
     
