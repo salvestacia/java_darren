@@ -1,5 +1,5 @@
-package com.dicoding.javafundamental.studikasus;
 import java.util.Scanner;
+
 public class Main {
     private static char pilihan;
     private static Scanner scanner = new Scanner(System.in);
