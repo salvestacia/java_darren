@@ -1,5 +1,3 @@
-package com.dicoding.javafundamental.studikasus;
-
 public class SegitigaSiku implements BangunDatar {
     
     SegitigaSiku(){
