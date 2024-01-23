@@ -1,5 +1,3 @@
-package com.dicoding.javafundamental.studikasus;
-
 public class PersegiPanjang implements BangunDatar {
     
     PersegiPanjang(){ //konstruktor
