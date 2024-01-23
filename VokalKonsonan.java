@@ -1,5 +1,3 @@
-package com.dicoding.javafundamental.studikasus;
-import java.util.Scanner;
 public class VokalKonsonan {
     public static void main(String[] args){
         //vokal = huruf hidup (a,i,u,e,o)
